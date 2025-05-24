@@ -1,4 +1,4 @@
-// This file was created previously for just learning purposes
+// This file was previously created for just learning purposes. For main code, refer to example.js
 
 const express = require("express")
 const app = express()
